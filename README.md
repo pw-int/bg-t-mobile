@@ -1,8 +1,13 @@
-### Dimoco BiteGames store Markup project ###
+### BiteGames - [PL T-Mobile] HTML for DIMOCO ###
 
 Markup project created by figma design.
 
+
+Figma link [url](https://www.figma.com/file/QYwKAQAwoG7fxvW6XRJj3M/PL-T-Mobile?type=design&node-id=1-35&mode=design&t=e4n0X0Y5t4KYfWnO-0 "Figma link")
+
 Demo 3g link [url](https://pw-int.github.io/bg-t-mobile/ "Demo 3g link")
+
+Demo otp link [url](https://pw-int.github.io/bg-t-mobile/otp.html "Demo otp link")
 
 
 ## Project structure ##
