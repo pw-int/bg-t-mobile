@@ -1,7 +1,7 @@
 // scss-docs-start font-variables
 // stylelint-disable value-keyword-case
-$font-family-sans-serif: "Inter" !default;
-$font-weight-medium: 500;
+$font-family-sans-serif: "Inter";
+$font-family-base: $font-family-sans-serif;
 $container-padding-x: 2rem;
 $white: #FFFFFF;
 $ghost-white: #F8F7FF;
@@ -23,7 +23,7 @@ $btn-link-color: $yellow!default;
 // form-control
 $input-font-size: 1rem !default;
 $input-line-height: 1.25 !default;
-$input-font-weight: 400 !default;
+$input-font-weight: 500 !default;
 $input-color: $light-gray !default;
 $input-placeholder-color: $light-gray !default;
 $input-bg: $ghost-white !default;
